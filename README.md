@@ -1,4 +1,4 @@
-![(Hello)](images/top.png)
+![(Hello)](https://github.com/esentis/esentis/blob/master/images/top.png)
 
 <!--
 **esentis/esentis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

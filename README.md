@@ -2,6 +2,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### Recent activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## Software Development
 
 | Dart            | Flutter       |Java           | Python          |C #             |

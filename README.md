@@ -2,50 +2,15 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Recent activity
-<!--START_SECTION:activity-->
 
+<h1 align="center">Hello I'm George</h1>
+<h3 align="center">A Software Developer from Greece.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis" alt="esentis" /> </p>
 
-<!--END_SECTION:activity-->
+- 📫 How to reach me **esentakos@yahoo.gr**
 
-## Software Development
-
-| Dart            | Flutter       |Java           | Python          |C #             |
-| :-------------: |:-------------:|:-------------:| :-------------: |:-------------: |
-| <img src="https://github.com/esentis/esentis/blob/master/images/dart.svg" alt="dart" width="40" title="Dart"/>| <img src="https://github.com/esentis/esentis/blob/master/images/flutter.svg" alt="flutter" width="40" title="Flutter"/>| <img src="https://github.com/esentis/esentis/blob/master/images/java.svg" alt="java" width="40" title="Java"/>| <img src="https://github.com/esentis/esentis/blob/master/images/python.svg" alt="python" width="40" title="Python"/> | <img src="https://github.com/esentis/esentis/blob/master/images/csharp.svg" alt="csharp" width="40" title="C#"/>
-
-## Web Development
-
-### Front end
-
-| HTML            | CSS           |JavaScript     | jQuery          | Bootstrap            |
-| :-------------: |:-------------:|:-------------:| :-------------: |:-------------: |
-| <img src="https://github.com/esentis/esentis/blob/master/images/html5.svg" alt="html5" width="40" title="HTML5"/>| <img src="https://github.com/esentis/esentis/blob/master/images/css3.svg" alt="css3" width="40" title="CSS3"/>| <img src="https://github.com/esentis/esentis/blob/master/images/javascript.svg" alt="javascript" width="40" title="JavaScript"/>| <img src="https://github.com/esentis/esentis/blob/master/images/jquery.svg" alt="jquery" width="40" title="jQuery"/> | <img src="https://github.com/esentis/esentis/blob/master/images/bootstrap.svg" alt="bootstrap" width="40" title="Bootstrap"/>
-
-### Back end
-
-| PostgreSQL      | MongoDB       |Nodejs         | .NET            | Postman            |
-| :-------------: |:-------------:|:-------------:| :-------------: |:-------------: |
-| <img src="https://github.com/esentis/esentis/blob/master/images/postgresql.svg" alt="postgresql" width="40" title="PostgreSql"/>| <img src="https://github.com/esentis/esentis/blob/master/images/mongodb.svg" alt="mongodb" width="40" title="Mongodb"/>| <img src="https://github.com/esentis/esentis/blob/master/images/node-dot-js.svg" alt="nodejs" width="40" title="Node.js"/>| <img src="https://github.com/esentis/esentis/blob/master/images/dot-net.svg" alt="dotnet" width="40" title=".NET"/> | <img src="https://github.com/esentis/esentis/blob/master/images/postman.svg" alt="postman" width="40" title="Postman"/>
-
-## Design
-
-| Photoshop      | Illustrator       |inDesign         | Premiere Pro            | Unity            |
-| :-------------: |:-------------:|:-------------:| :-------------: |:-------------: |
-| <img src="https://github.com/esentis/esentis/blob/master/images/adobephotoshop.svg" alt="photoshop" width="40" title="Photoshop"/>| <img src="https://github.com/esentis/esentis/blob/master/images/adobeillustrator.svg" alt="illustrator" width="40" title="Illustrator"/>| <img src="https://github.com/esentis/esentis/blob/master/images/adobeindesign.svg" alt="indesign" width="40" title="inDesign"/>| <img src="https://github.com/esentis/esentis/blob/master/images/adobepremierepro.svg" alt="premiere pro" width="40" title="Premiere Pro"/>| <img src="https://github.com/esentis/esentis/blob/master/images/unity.svg" alt="unity" width="40" title="Unity"/>
-
-<!--
-**esentis/esentis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p><p align="center">
+<a href="https://dev.to/esentis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="esentis" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/gleonidis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gleonidis" height="30" width="30" /></a>
+</p>

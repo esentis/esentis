@@ -5,8 +5,6 @@
 ### Recent activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ## Software Development
 
 | Dart            | Flutter       |Java           | Python          |C #             |

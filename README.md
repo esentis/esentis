@@ -1,10 +1,8 @@
-![(Hello)](https://github.com/esentis/esentis/blob/master/images/top.png)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h1 align="center">Hello I'm George</h1>
 <h3 align="center">A Software Developer from Greece.</h3>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis" alt="esentis" /> </p>
 

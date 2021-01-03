@@ -8,11 +8,50 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=DC6286&style=flat-square" alt="esentis" /> </p>
 
-📫 How to reach me
+### Programming Languages
 
-- email: **esentakos@yahoo.gr**
-- discord: **esentis#1385**
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javaScript" width="40" height="40"/>
+</p>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p><p align="center">
-<a href="https://play.google.com/store/apps/dev?id=7040603848130357887" target="blank"><img align="center" src="https://simpleicons.org/icons/googleplay.svg" alt="gleonidis" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gleonidis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gleonidis" height="30" width="30" /></a>
+### Front End
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" width="40" height="40"/>
+</p>
+
+### Back End
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="express" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/>
+</p>
+
+### Multimedia
+
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="illustrator" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/ableton.svg" alt="ableton" width="40" height="40"/>
+</p>
+
+📫 ***How to reach me***
+
+<p align="left"><a href="mailto:esentakos@yahoo.gr" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="e-mail" height="30" width="30" /></a>
+<a href="https://play.google.com/store/apps/dev?id=7040603848130357887" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/google-play-5.svg" alt="gleonidis" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/gleonidis" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="gleonidis" height="30" width="30" /></a>
+</p>

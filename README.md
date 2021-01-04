@@ -21,7 +21,7 @@
 
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>

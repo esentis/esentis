@@ -46,10 +46,10 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="illustrator" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/>
+<img src="images/figma.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/live-1.svg" alt="ableton" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/>
+<img src="images/ableton.svg" alt="ableton" width="40" height="40"/>
+<img src="images/unity.svg" alt="unity" width="40" height="40"/>
 </p>
 
 📫 ***How to reach me***

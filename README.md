@@ -25,7 +25,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery" width="40" height="40"/>
+<img src="images/jquery.svg" alt="jQuery" width="40" height="40"/>
 </p>
 
 ### Back End

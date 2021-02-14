@@ -14,7 +14,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="javaScript" width="40" height="40"/>
+<img src="images/javascript-original.svg" alt="javaScript" width="40" height="40"/>
 </p>
 
 ### Front End

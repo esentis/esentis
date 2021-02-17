@@ -13,7 +13,7 @@
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="csharp" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40"/>
-<img src="images/java.png" alt="java" width="45" height="80"/>
+<img src="images/java2.png" alt="java" width="45" height="80"/>
 <img src="images/javascript-original.svg" alt="javaScript" width="40" height="40"/>
 </p>
 

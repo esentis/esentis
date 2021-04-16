@@ -4,8 +4,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
-
 ![Follow me](https://img.shields.io/github/followers/esentis?style=social)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=DC6286&style=flat-square" alt="esentis" /> </p>

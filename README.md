@@ -20,31 +20,31 @@
 ### Front End
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css3" width="40" height="40"/>
+<img src="images/flutter.svg" alt="flutter" width="40" height="40"/>
+<img src="images/react.svg" alt="react" width="40" height="40"/>
+<img src="images/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+<img src="images/html5.svg" alt="html5" width="40" height="40"/>
+<img src="images/css3.svg" alt="css3" width="40" height="40"/>
 <img src="images/jquery.svg" alt="jQuery" width="40" height="40"/>
 </p>
 
 ### Back End
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/dotnet.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="express" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/>
+<img src="images/dot-net-plain.svg" alt="dotnet" width="40" height="40"/>
+<img src="images/postgresql-plain.svg" alt="dotnet" width="40" height="40"/>
+<img src="images/nodejs-plain.svg" alt="express" width="40" height="40"/>
+<img src="images/express-original.svg" alt="express" width="40" height="40"/>
+<img src="images/mongodb-plain.svg" alt="mongoDB" width="40" height="40"/>
+<img src="images/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </p>
 
 ### Multimedia
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="illustrator" width="40" height="40"/>
+<img src="images/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
+<img src="images/xd-plain.svg" alt="xd" width="40" height="40"/>
+<img src="images/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="illustrator" width="40" height="40"/>
 <img src="images/figma.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" width="40" height="40"/>

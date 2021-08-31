@@ -4,6 +4,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark)](https://stackoverflow.com/users/12413404/esentis)
+
 ![Follow me](https://img.shields.io/github/followers/esentis?style=social)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=4C8EDA&style=flat-square" alt="esentis" /> </p>

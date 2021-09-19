@@ -88,6 +88,6 @@
 <a href="https://github.com/esentis/iee_announcements_flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=iee_announcements_flutter&theme=github_dark" />
 </a>
-<a href="https://github.com/esentis/Adition-Job-Ads-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Adition-Job-Ads-API&theme=github_dark" />
+<a href="https://github.com/esentis/feelm-movie-guru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=feelm-movie-guru&theme=github_dark" />
 </a>

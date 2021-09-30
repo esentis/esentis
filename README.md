@@ -59,8 +59,6 @@
 </p>
 <br>
 
-### Pinned repos
-
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />
 </a>

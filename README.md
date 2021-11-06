@@ -62,6 +62,9 @@
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />
 </a>
+<a href="https://github.com/esentis/photocanvas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=photocanvas&theme=github_dark" />
+</a>
 <a href="https://github.com/esentis/string_extensions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=string_extensions&theme=github_dark" />
 </a>
@@ -82,9 +85,6 @@
 </a>
 <a href="https://github.com/esentis/Real-Pet-Online-Catalog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Real-Pet-Online-Catalog&theme=github_dark" />
-</a>
-<a href="https://github.com/esentis/iee_announcements_flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=iee_announcements_flutter&theme=github_dark" />
 </a>
 <a href="https://github.com/esentis/feelm-movie-guru">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=feelm-movie-guru&theme=github_dark" />

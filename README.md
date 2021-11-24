@@ -56,6 +56,7 @@
 <a href="https://linkedin.com/in/gleonidis" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="gleonidis" height="30" width="30" /></a>
 <a href="https://play.google.com/store/apps/dev?id=7040603848130357887" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/google-play-5.svg" alt="gleonidis" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12413404/esentis?tab=profile" target="blank"><img align="center" src="images/stack.svg" alt="stackOverflow" height="30" width="30" /></a>
+<a href="https://g.dev/esen" target="blank"><img align="center" src="images/google-developers.svg" alt="Google Developers" height="30"  /></a>
 </p>
 <br>
 

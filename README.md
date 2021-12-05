@@ -35,6 +35,7 @@
 <img src="images/express-original.svg" alt="express" width="40" height="40"/>
 <img src="images/mongodb-plain.svg" alt="mongoDB" width="40" height="40"/>
 <img src="images/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<img src="images/supabase.svg" alt="supabase" height="40"/>
 </p>
 
 ### Multimedia

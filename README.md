@@ -2,6 +2,8 @@
 
 <h3 align="left">A Software Developer from Greece.</h3>
 
+<h6 align="left">KISS principle fan</h6>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esentis&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark)](https://stackoverflow.com/users/12413404/esentis)

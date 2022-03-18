@@ -78,11 +78,11 @@
 <a href="https://github.com/esentis/photocanvas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=photocanvas&theme=github_dark" />
 </a>
+<a href="https://github.com/esentis/multiple_search_selection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=multiple_search_selection&theme=github_dark" />
+</a>
 <a href="https://github.com/esentis/Blue-Waves-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Blue-Waves-Flutter&theme=github_dark" />
-</a>
-<a href="https://github.com/esentis/COVID-19-Worldwide-Stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=COVID-19-Worldwide-Stats&theme=github_dark" />
 </a>
 <a href="https://github.com/Tykoop/Blue-Waves-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tykoop&repo=Blue-Waves-API&theme=github_dark" />

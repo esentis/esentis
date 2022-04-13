@@ -84,8 +84,8 @@
 <a href="https://github.com/esentis/Blue-Waves-Flutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Blue-Waves-Flutter&theme=github_dark" />
 </a>
-<a href="https://github.com/Tykoop/Blue-Waves-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tykoop&repo=Blue-Waves-API&theme=github_dark" />
+<a href="https://github.com/esentis/load_switch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=load_switch&theme=github_dark" />
 </a>
 <a href="https://github.com/esentis/Real-Pet-Online-Catalog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Real-Pet-Online-Catalog&theme=github_dark" />

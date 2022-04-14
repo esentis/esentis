@@ -10,7 +10,11 @@
 
 ![Follow me](https://img.shields.io/github/followers/esentis?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=4C8EDA&style=flat-square" alt="esentis" /> </p>
+<a href="https://pub.dev/publishers/esentis.dev/packages">
+<p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-28adf0?style=style=for-the-badge&logo=flutter" alt="esentis" /> </p>
+<a/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=4C8EDA&style=for-the-badge" alt="esentis" /> </p>
 
 ### Programming Languages
 

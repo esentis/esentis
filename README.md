@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-28adf0?style=style=for-the-badge&logo=flutter" alt="esentis" /> </p>
 <a/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=4C8EDA&style=for-the-badge" alt="esentis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=28adf0&style=for-the-badge" alt="esentis" /> </p>
 
 ### Programming Languages
 

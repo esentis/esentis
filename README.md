@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm George</h1>
 
-<h3 align="left">A Software Developer from Greece.</h3>
+<h4 align="left">A Software Developer from Greece.</h3>
 
 <h6 align="left">KISS principle fan</h6>
 
@@ -8,15 +8,11 @@
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark)](https://stackoverflow.com/users/12413404/esentis)
 
-![Follow me](https://img.shields.io/github/followers/esentis?style=social)
-
 <a href="https://pub.dev/publishers/esentis.dev/packages">
-<p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-0175ca?style=style=for-the-badge&logo=flutter" alt="esentis" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> </p>
 <a/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esentis&color=0175ca&style=for-the-badge" alt="esentis" /> </p>
-
-### Contact
+### :envelope: Contact
 
 <p align="left"><a href="mailto:esentakos@yahoo.gr" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="e-mail" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/gleonidis" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="gleonidis" height="30" width="30" /></a>
@@ -24,7 +20,8 @@
 <a href="https://stackoverflow.com/users/12413404/esentis?tab=profile" target="blank"><img align="center" src="images/stack.svg" alt="stackOverflow" height="30" width="30" /></a>
 <a href="https://g.dev/esen" target="blank"><img align="center" src="images/google-developers.svg" alt="Google Developers" height="30"  /></a>
 </p>
-<br>
+
+#### :pushpin: Pinned Repositories
 
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />

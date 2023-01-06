@@ -21,7 +21,7 @@
 <a href="https://g.dev/esen" target="blank"><img align="center" src="images/google-developers.svg" alt="Google Developers" height="30"  /></a>
 </p>
 
-#### :pushpin: Pinned Repositories
+### :pushpin: Pinned Repositories
 
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />

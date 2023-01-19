@@ -4,7 +4,7 @@
 
 <h6 align="left">KISS principle fan</h6>
 
-[![Anurag's github stats](https://github-readme-stats-coral-one.vercel.app/api?username=esentis&count_private=true&show_icons=true&theme=github_dark)](https://github-readme-stats-coral-one.vercel.app)
+![Anurag's github stats](https://github-readme-stats-esentis.vercel.app/api?username=esentis&count_private=true&show_icons=true&theme=github_dark)
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark)](https://stackoverflow.com/users/12413404/esentis)
 
@@ -30,7 +30,7 @@
   <img align="center" src="https://github-readme-stats-coral-one.vercel.app/api/pin/?username=esentis&repo=string_extensions&theme=github_dark" />
 </a>
 <a href="https://github.com/esentis/multiple_search_selection">
-  <img align="center" src="https://github-readme-stats-coral-one.vercel.app/api/pin/?username=esentis&repo=multiple_search_selection&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=multiple_search_selection&theme=github_dark" />
 </a>
 <a href="https://github.com/esentis/photocanvas">
   <img align="center" src="https://github-readme-stats-coral-one.vercel.app/api/pin/?username=esentis&repo=photocanvas&theme=github_dark" />

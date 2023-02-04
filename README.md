@@ -4,7 +4,7 @@
 
 <h6 align="left">KISS principle fan</h6>
 
-![Anurag's github stats](https://github-readme-stats-esentis.vercel.app/api?username=esentis&count_private=true&show_icons=true&theme=github_dark)
+<img src="./images/esentis.gif" heigth="200" width="200" alt="Waaaaaaa" />
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark)](https://stackoverflow.com/users/12413404/esentis)
 

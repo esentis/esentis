@@ -4,7 +4,7 @@
 
 <h6 align="left">KISS principle fan</h6>
 
-<img src="./images/esentis.gif" heigth="200" width="200" alt="Waaaaaaa" />
+<img src="./images/esentis_small.gif" heigth="200" width="200" alt="Waaaaaaa" />
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark)](https://stackoverflow.com/users/12413404/esentis)
 

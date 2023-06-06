@@ -41,6 +41,6 @@
 <a href="https://github.com/esentis/flutter-find-unused-assets-and-dart-files">
   <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=flutter-find-unused-assets-and-dart-files&theme=github_dark" />
 </a>
-<a href="https://github.com/esentis/feelm-movie-guru">
-  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=feelm-movie-guru&theme=github_dark" />
+<a href="https://github.com/esentis/infinite_grouped_list">
+  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=infinite_grouped_list&theme=github_dark" />
 </a>

@@ -22,10 +22,10 @@
 </a>
 <a href="https://github.com/esentis/multiple_search_selection">
   <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=multiple_search_selection&theme=github_dark" />
-</a><a href="https://github.com/esentis/infinite_grouped_list">
-  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=infinite_grouped_list&theme=github_dark" />
 </a>
-
+<a href="https://github.com/esentis/photocanvas">
+  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=photocanvas&theme=github_dark" />
+</a>
 <a href="https://github.com/esentis/personal-website-flutter">
   <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=personal-website-flutter&theme=github_dark" />
 </a>
@@ -41,6 +41,6 @@
 <a href="https://github.com/esentis/flutter-find-unused-assets-and-dart-files">
   <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=flutter-find-unused-assets-and-dart-files&theme=github_dark" />
 </a>
-<a href="https://github.com/esentis/photocanvas">
-  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=photocanvas&theme=github_dark" />
+<a href="https://github.com/esentis/infinite_grouped_list">
+  <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=infinite_grouped_list&theme=github_dark" />
 </a>

@@ -12,8 +12,6 @@
 <p align="left"> <img src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> </p>
 <a/>
 
-### :pushpin: Pinned Repositories
-
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img align="center" src="https://github-readme-stats-esentis.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />
 </a>

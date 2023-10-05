@@ -7,7 +7,7 @@
 <img src="./images/esentis_small.gif" heigth="200" width="150" alt="Waaaaaaa" />
 </p>
 <p align="center">
-<a href="https://github.com/esentis/Flutter-Movies-Application">
+<a href="https://stackoverflow.com/users/12413404/esentis?tab=profile">
   <img width="150" src="https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark" />
 </a>
 </p>

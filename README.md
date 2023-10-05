@@ -4,16 +4,15 @@
 
 <h6 align="center">KISS principle fan</h6>
 <p align="center">
-<img src="./images/esentis_small.gif" heigth="200" width="200" alt="Waaaaaaa" />
+<img src="./images/esentis_small.gif" heigth="200" width="150" alt="Waaaaaaa" />
 </p>
-
 <p align="center">
 <a href="https://github.com/esentis/Flutter-Movies-Application">
-  <img width="200" src="https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark" />
+  <img width="150" src="https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark" />
 </a>
 </p>
 <a href="https://pub.dev/publishers/esentis.dev/packages">
-<p align="center"> <img width="200" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> </p>
+<p align="center"> <img width="278" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> </p>
 <a/>
 
 <p align="center">

@@ -10,14 +10,14 @@
 </a>
 </p>
 <a href="https://pub.dev/publishers/esentis.dev/packages">
-
 <p align="center"> 
-<a href="https://github.com/esentis">
 <img width="180" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> </p>
 <a/>
 
+<a href="https://github.com/esentis">
 <p align="center">
 <img width="556" heigth="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />
+</a>
 <p align="center">
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />

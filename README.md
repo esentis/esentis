@@ -16,9 +16,7 @@
 <a/>
 
 <p align="center">
-<a href="https://github.com/esentis/Flutter-Movies-Application">
-  <img width="556" heigth="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />
-</a>
+<img width="556" heigth="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />
 <p align="center">
 <a href="https://github.com/esentis/Flutter-Movies-Application">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esentis&repo=Flutter-Movies-Application&theme=github_dark" />

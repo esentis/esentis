@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm George</h1>
 
-<h4 align="center">A Software Developer from Greece.</h3>
+<h4 align="center">I make mobile apps !</h3>
 
 <h6 align="center">KISS principle fan</h6>
 

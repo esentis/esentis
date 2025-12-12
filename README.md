@@ -9,11 +9,11 @@
   <img width="180" src="https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark" />
 </a>
 </p>
+<p align="center">
 <a href="https://pub.dev/publishers/esentis.dev/packages">
-<p align="center"> 
 <img width="180" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> 
+</a>
 </p>
-<a/>
 
 <p align="center">
 <a href="https://github.com/esentis/load_switch">

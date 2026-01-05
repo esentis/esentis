@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <a href="https://pub.dev/publishers/esentis.dev/packages">
-<img width="180" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" /> 
+<img width="180" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" />
 </a>
 </p>
 
@@ -40,7 +40,7 @@
 <a href="https://github.com/esentis/crosswordia">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esentis&repo=crosswordia&theme=github_dark" />
 </a>
-<a href="https://github.com/esentis/slide_reveal_screen">
-  <img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esentis&repo=slide_reveal_screen&theme=github_dark" />
+<a href="https://github.com/esentis/cupertino_context_menu_plus">
+  <img width="278"  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=esentis&repo=cupertino_context_menu_plus&theme=github_dark" />
 </a>
 </p>

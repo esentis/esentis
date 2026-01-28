@@ -5,11 +5,6 @@
 <h6 align="center">KISS principle fan</h6>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/12413404/esentis?tab=profile">
-  <img width="180" src="https://github-readme-stackoverflow.vercel.app/?userID=12413404&layout=compact&theme=dark" />
-</a>
-</p>
-<p align="center">
 <a href="https://pub.dev/publishers/esentis.dev/packages">
 <img width="180" src="https://img.shields.io/badge/Published-Libraries-0175ca?style=for-the-badge&logo=flutter" alt="esentis" />
 </a>
